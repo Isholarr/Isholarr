@@ -7,5 +7,5 @@
 
 - 👋 Hi, I’m Ishola
 - 💼 I'm a Mobile Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 💻 I build mobile solutions with Flutter.
+- 💻 I build problem-solving products with Flutter.
 <!-- - 🌱 I’m currently learning Node JS.. -->
